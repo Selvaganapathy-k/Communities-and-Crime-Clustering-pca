@@ -1,4 +1,3 @@
-Subject: README.md – Communities and Crime Clustering with PCA
 
 # 🏘️ Communities and Crime Clustering using PCA
 
